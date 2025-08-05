@@ -35,6 +35,7 @@ Edit
     <title>Chetan Kushwah | Portfolio</title>
     
 </head>
+<style>
  body {
     font-family: Arial, sans-serif;
     background: #f3f3f3;
@@ -101,6 +102,8 @@ Edit
     transform: scale(1.2);
     color: #007BFF;
 }
+
+</style>
 
 <body>
 
