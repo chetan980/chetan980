@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Skill
 - 🌱 I’m currently learning Frentend
-- 💬 Ask me anything about  
+- 💬 Ask me anything about : chetankushwah7820@gmail.com 
 - 📫 How to reach me: 
 - 😄 My website: 
 - ⚡ Fun fact: I'm comming to Wev Developer  and Basic Bakend with
@@ -102,6 +102,7 @@ Great! You're Chetan Kushwah, a BCA 2nd year student from GNIOT, Greater Noida (
             <p>From <strong>Aligarh</strong>, currently pursuing <strong>BCA 2nd Year</strong></p>
             <p>Student at <strong>GNIOT, Greater Noida</strong> (Affiliated to CCS University)</p>
         </div>
+      
 ### Languages and Tools:
 <div class="skills">
       <h2>My Skills</h2>
@@ -131,6 +132,7 @@ Great! You're Chetan Kushwah, a BCA 2nd year student from GNIOT, Greater Noida (
    <a href="https://twitter.com/chetan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
 </div>
 <br>
 ⭐️ From [Chetan](https://github.com/chetan980)
