@@ -8,14 +8,8 @@
 - ⚡ Fun fact: I'm comming to Wev Developer  and Basic Bakend with
   
 
-You said:
-    i am chetan kushwah and i  am from aligarh   i am class bca  and 2nd year  and gniot greter noida coolage belong to ccs universty and html and css , java script and python of the logo   ye sab musje chiye code and
 
-
-ChatGPT said:
-Great! You're Chetan Kushwah, a BCA 2nd year student from GNIOT, Greater Noida (CCS University), and you want a personal logo webpage that includes your name, location, college info, course, and your skills: HTML, CSS, JavaScript, Python — all represented nicely, maybe even with icons/logos.
-
-
+   
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,13 +90,13 @@ Great! You're Chetan Kushwah, a BCA 2nd year student from GNIOT, Greater Noida (
 
 <body>
 
-    <div class="container">
-        <div class="profile">
-            <h1>Chetan Kushwah </h1>
-            <p>From <strong>Aligarh</strong>, currently pursuing <strong>BCA 2nd Year</strong></p>
-            <p>Student at <strong>GNIOT, Greater Noida</strong> (Affiliated to CCS University)</p>
-        </div>
-      
+   <div class="container">
+    <div class="profile">
+        <h1>Chetan Kushwah </h1>
+        <p>From <strong>Aligarh</strong>, currently pursuing <strong>BCA 2nd Year</strong></p>
+        <p>Student at <strong>GNIOT, Greater Noida</strong> (Affiliated to CCS University)</p>
+    </div>
+
 ### Languages and Tools:
 <div class="skills">
       <h2>My Skills</h2>
