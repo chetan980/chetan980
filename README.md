@@ -33,9 +33,75 @@ Edit
 <head>
     <meta charset="UTF-8">
     <title>Chetan Kushwah | Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    
 </head>
+ body {
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 90%;
+    max-width: 600px;
+}
+
+.profile h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.profile p {
+    color: #555;
+    margin: 5px 0;
+}
+
+.skills {
+    margin-top: 30px;
+}
+
+.skills h2 {
+    color: #444;
+    margin-bottom: 20px;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+    color: #555;
+    transition: transform 0.3s;
+}
+
+.icon span {
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.icon:hover {
+    transform: scale(1.2);
+    color: #007BFF;
+}
+
 <body>
 
     <div class="container">
