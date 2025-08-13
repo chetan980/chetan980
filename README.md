@@ -101,7 +101,7 @@
 <div class="skills">
       <h2>My Skills</h2>
       <div class="icons">
-        <div class="icon"><i class='bx bxl-html5'></i><span>HTML</span></div>
+        <div style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge></i><span>HTML</span></div>
         <div class="icon"><i class='bx bxl-css3'></i><span>CSS</span></div>
         <div class="icon"><i class='bx bxl-javascript'></i><span>JavaScript</span></div>
         <div class="icon"><i class='bx bxl-python'></i><span>Python</span></div>
