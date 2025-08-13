@@ -101,7 +101,13 @@
 <div class="skills">
       <h2>My Skills</h2>
       <div class="icons">
-        <div class="icon"><i class='bx bxl-css3'</i><span>HTML</span></div>
+        <div class="icon"><i class='bx bxl-css3'</i> <style .icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+    color: #555;
+    transition: transform 0.3s;</style><span>HTML</span></div>
         <div class="icon"><i class='bx bxl-css3'></i><span>CSS</span></div>
         <div class="icon"><i class='bx bxl-javascript'></i><span>JavaScript</span></div>
         <div class="icon"><i class='bx bxl-python'></i><span>Python</span></div>
