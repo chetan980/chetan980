@@ -29,7 +29,7 @@
     height: 100vh;
 }
 
-.container {
+/*.container {
     background: white;
     padding: 40px;
     border-radius: 20px;
@@ -83,7 +83,7 @@
 .icon:hover {
     transform: scale(1.2);
     color: #007BFF;
-}
+} */
 
 </style>
 </head>
