@@ -11,7 +11,7 @@ Email Me 👉 **chetankushwah7820@gmail.com* For Collaboration/Project or Anythi
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://https://www.facebook.com/share/19tufaoipp/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/19tufaoipp/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chetan_kushwah0?fqnt=MWYyZnFwYXA1dW1nMA==) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chetan-kushwah-612598329)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetankushwah@gmail.com) 
