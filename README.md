@@ -13,4 +13,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Chetan Kushwah – Data Analyst & AI/ML
+
+
+
+Python, SQL, Excel, Power BI
+
+
+
+Pandas, NumPy, Scikit-learn, TensorFlow
+
+
+
+Blinkit Grocery Sales Dashboard
+
+
+
+Customer Shopping Behavior Analysis
+
+
+
+Movie Recommender System
+
+
+
+GitHub Stats and Contribution Streak
+
+
+
+LinkedIn and Contact Details
