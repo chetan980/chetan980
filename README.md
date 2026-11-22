@@ -11,7 +11,9 @@ Email Me 👉 **chetankushwah7820@gmail.com* For Collaboration/Project or Anythi
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17e8YNgiZQ/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/royal__ahir__96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-yadav-478b2034a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs%2BOIVecWToyEWVHF1B%2FswA%3D%3D) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/https://www.youtube.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gkyadav834@gmail,com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://https://www.facebook.com/share/19tufaoipp/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chetan_kushwah0?fqnt=MWYyZnFwYXA1dW1nMA==) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-yadav-478b2034a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs%2BOIVecWToyEWVHF1B%2FswA%3D%3D) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/https://www.youtube.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mail to:chetankushwah@gmail.com) 
 
 
 <!-- Snake Game Repo View -->
