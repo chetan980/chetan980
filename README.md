@@ -7,7 +7,7 @@ Email Me 👉 **chetankushwah7820@gmail.com* For Collaboration/Project or Anythi
 - 🔭 *I’m currently working on:* Skills
 - 👯 *I’m looking to collaborate on:* PROJECT
 - 💬 *Ask me about:* Collaboration, Tech Support
-- 📫 *How to reach me:* +918954386457
+- 📫 *How to reach me:* +917820093116
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
